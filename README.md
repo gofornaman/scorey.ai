@@ -24,4 +24,4 @@ Once the data is collected, the algorithm then defines a comprehensive scoring s
 - Contribution
 - Followers
 The candidate is then assigned a scored out of 100 
-This helps the interviewer get a full view of candidates abilties and therefore helps them make a unbiased, informed decision.
+This helps the interviewer get a full view of candidates abilities and therefore helps them make a unbiased, informed decision.
