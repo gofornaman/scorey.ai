@@ -1,4 +1,4 @@
-# Scorey.ai 💯
+# scorey.ai 💯
 - Scraping, aggregating and assessing technical ability of a candidate based on publicly available sources
 
 ### Problem Statement
